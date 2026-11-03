@@ -1,0 +1,7 @@
+.gradle/
+**/build/
+*.iml
+local.properties
+apk/*.apk
+__pycache__/
+.pytest_cache/
